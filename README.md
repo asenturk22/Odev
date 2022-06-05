@@ -1,0 +1,2 @@
+# Odev
+Yapay Zeka - Ödev
